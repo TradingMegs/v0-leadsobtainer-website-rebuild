@@ -1,0 +1,19 @@
+.gradient-text {
+  background: linear-gradient(to right, #c1ff00, #90e000);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+  text-fill-color: transparent;
+}
+
+.blue-gradient-text {
+  background: linear-gradient(to right, #00c8ff, #4da2ff);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+  text-fill-color: transparent;
+}
+
+.primary-light {
+  color: #d4ff4d;
+}
